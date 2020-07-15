@@ -1,0 +1,30 @@
+{
+  "name": "astracore-lib",
+  "main": "./astracore-lib.min.js",
+  "version": "0.0.1",
+  "homepage": "http://astracore.io",
+  "authors": [
+    "ASTRA <admin@astracore.io>"
+  ],
+  "description": "A pure, powerful Astracore lib",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "bitcoin",
+    "bitcore",
+    "btc",
+    "satoshi"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "CONTRIBUTING.md",
+    "gulpfile.js",
+    "lib",
+    "index.js",
+    "karma.conf.js",
+    "npm-shrinkwrap.json",
+    "test"
+  ]
+}
