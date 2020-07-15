@@ -37,7 +37,7 @@ This will generate files named `astracore-lib.js` and `astracore-lib.min.js`.
 ## Development & Tests
 
 ```sh
-git clone https://github.com/216k155/astracore-lib
+git clone https://github.com/AstraCore/astracore-lib
 cd astracore-lib
 npm install
 ```
