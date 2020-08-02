@@ -4,7 +4,7 @@
   "description": "A pure and powerful JavaScript ASTRA library.",
   "author": "ASTRA <admin@astracore.io>",
   "main": "index.js",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }'
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "scripts": {
     "lint": "gulp lint",
     "test": "gulp test",
