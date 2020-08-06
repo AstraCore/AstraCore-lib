@@ -1,5 +1,5 @@
 {
-  "name": "@astracore/astracore-lib",
+  "name": "astracore-lib",
   "version": "0.0.1",
   "description": "A pure and powerful JavaScript ASTRA library.",
   "author": "ASTRA <admin@astracore.io>",
