@@ -42,7 +42,7 @@
     "buffer-compare": "=1.1.1",
     "elliptic": "=6.5.3",
     "inherits": "=2.0.4",
-    "lodash": "=4.17.19"
+    "lodash": "=4.17.20"
   },
   "devDependencies": {
     "bitcore-build": "bitpay/bitcore-build",
